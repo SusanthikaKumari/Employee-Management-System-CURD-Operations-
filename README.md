@@ -34,15 +34,15 @@ This is a simple **Employee Management System** built with **Java**, **Spring Bo
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/kumarisusanthika/employee-management-system.git
-
-2. Open the project in your preferred IDE (IntelliJ / VS Code)
+git clone https://github.com/SusanthikaKumari/Employee-Management-System-CURD-Operations-.git
+```
+2. Open the project in your preferred IDE (IntelliJ)
 
 3. Make sure you have:
 
- - Java 11 or newer
- - Maven
- - MySQL (or H2)
+  - Java 11 or newer
+  - Maven
+  - SQL Workbench or MySQL
 
 4. Configure database in application.properties
 
